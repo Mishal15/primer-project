@@ -1,5 +1,7 @@
-<img width="1498" height="335" alt="Screenshot 2026-03-07 232312" src="https://github.com/user-attachments/assets/cf9008b4-860a-4167-86ad-64fba6185c4e" />
-<img width="1907" height="822" alt="Screenshot 2026-03-07 232329" src="https://github.com/user-attachments/assets/635fa37a-77e1-47ba-b514-b75ab2ec9209" />
-<img width="1527" height="611" alt="Screenshot 2026-03-07 232352" src="https://github.com/user-attachments/assets/8c19f886-7989-40d1-9cdc-bf9e14dd2b51" />
-<img width="1534" height="532" alt="Screenshot 2026-03-07 232411" src="https://github.com/user-attachments/assets/056f2790-c3de-48f2-96bb-2ee7ccc2d95d" />
-<img width="1890" height="787" alt="Screenshot 2026-03-07 232504" src="https://github.com/user-attachments/assets/358e875e-84c4-4c04-8a62-487a85e8152a" />
+<img width="1395" height="578" alt="Screenshot 2026-03-08 023817" src="https://github.com/user-attachments/assets/35c3206d-ce55-4583-b838-76f1e02b8cb2" />
+<img width="1919" height="568" alt="Screenshot 2026-03-08 023833" src="https://github.com/user-attachments/assets/2ad12562-af83-4e12-9a3a-8e7469fe8b07" />
+<img width="1908" height="562" alt="Screenshot 2026-03-08 023848" src="https://github.com/user-attachments/assets/4ea54a95-4579-4215-b421-9441f3e902dc" />
+<img width="1880" height="509" alt="Screenshot 2026-03-08 023903" src="https://github.com/user-attachments/assets/3818c7b4-0ff5-4afc-81ca-a9b97a4372cc" />
+<img width="1717" height="711" alt="Screenshot 2026-03-08 024022" src="https://github.com/user-attachments/assets/003cc1bb-3019-4020-8f50-08148571f50a" />
+http://my-795242464194-bucket.s3-website-us-east-1.amazonaws.com
+d34xe1lhc705np.cloudfront.net
